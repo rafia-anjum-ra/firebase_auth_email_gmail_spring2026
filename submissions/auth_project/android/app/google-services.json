@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728172766560",
+    "project_id": "my-auth-project-c622a",
+    "storage_bucket": "my-auth-project-c622a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728172766560:android:7762cb4ec0072b1df46a05",
+        "android_client_info": {
+          "package_name": "com.example.auth_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMcMxpgmSHcFAkO7oWX-RVHGNU7kUn0uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728172766560:android:d429c8ed9fc2e6b8f46a05",
+        "android_client_info": {
+          "package_name": "com.rafia.authapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMcMxpgmSHcFAkO7oWX-RVHGNU7kUn0uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
